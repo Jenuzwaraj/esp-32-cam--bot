@@ -1,6 +1,4 @@
-i want to integrate ultrasonic sensor and a buzzer with aruino , buzzer should work when in 5 cm
-ChatGPT said:
-ChatGPT
+
 To integrate an ultrasonic sensor and a buzzer with an Arduino, you can follow these steps. The buzzer will activate when an object is detected within 5 cm by the ultrasonic sensor.
 
 Components needed:
